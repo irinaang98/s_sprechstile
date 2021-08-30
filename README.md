@@ -1,6 +1,6 @@
 ## Analyse characteristics of the voice in a sample
 
-[The first notebook](S_Sprechstile_Anghelescu.ipynb) contains a code that analyses characteristics of the voice such as fundamental frequency, formants, Harmonics-to-Noise Ratio (HNR). 
+[The first notebook](S_Sprechstile_Anghelescu.ipynb) contains a code that analyses characteristics of the voice such as fundamental frequency, formants, Harmonics-to-Noise Ratio (HNR) and shows how you can find correlations between these.
 
 First step was to record a voice sample and split it into [segments](Angehelescu), 3-7 seconds each. The segments have been annotated afterwards with the program Speechalyser. [The labels](labels.txt) show the valence of each segment, on a scale from 1 to 5, where 1=negative, 5=positive.
 The valence is analysed in the code, using different visualizations form the libraries Pandas and Seaborn.
