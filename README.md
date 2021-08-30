@@ -28,11 +28,11 @@ Next step was to measure the characteristics of the voice. These are measured in
 </ul>
 
 **Installations**
-<ul>
-<li> [Speechalyser](https://github.com/felixbur/Speechalyzer) or another program for speech data files labeling</li>
-<li> [Labeltool](https://github.com/felixbur/Labeltool) (you need to install it as well if you want to use Speechalyser for labeling the data)</li>
-<li> [Jupyter Notebook](https://jupyter.org/install)</li>  
-</ul>
+
+[Speechalyser](https://github.com/felixbur/Speechalyzer) or another program for speech data files labeling
+[Labeltool](https://github.com/felixbur/Labeltool) (you need to install it as well if you want to use Speechalyser for labeling the data)
+[Jupyter Notebook](https://jupyter.org/install)  
+
 
 **Author**: Irina Anghelescu 
 
