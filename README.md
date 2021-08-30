@@ -11,16 +11,16 @@ Next step was to measure the characteristics of the voice. These are measured in
 
 **How to use it**
 <ul>
-<li>record a speech segment it</li>
+<li>record a speech and segment it</li>
 <li>annotate the segments with Speechalyser or another similar program</li>
-<li>in a terminal open "Measure Pitch and HNR.ipynb" and/or "Measure Pitch, HNR, Jitter, Shimmer, and Formants.ipynb" (depending on which characteristics you want to measure) with a Notebook IDE (eg  Jupyter Notebook or Google Collab)</li>
+<li>in a terminal open "Measure_Pitch_and_HNR.ipynb" and/or "Measure_Pitch_HNR_Jitter_Shimmer_and_Formants.ipynb" (depending on which characteristics you want to measure) with a Notebook IDE (eg  Jupyter Notebook or Google Collab)</li>
 <li>in the code, change the path with the folder from your computer, in which you have the segements</li>  
 <li>run all (the zip file with the measured characteristics will be created and saved to your computer</li>
 <li>open "S_Sprechstile_Anghelescu.ipynb"</li>  
 <li>run all</li>
 <li>look at how the charts and plots look like</li>
-<li>if you want to make a comparison between the data from more speakers, repeat the process of measuring the characteristics with the Praat Scripts</li>
-<li>create a folder with all the zip files</li>
+<li>if you want to make a comparison between the data from more speakers, repeat the process of measuring the characteristics with the Praat Scripts for the recordings from the other speakers</li>
+<li>after all the zip files are saved to your computer, create a folder with all of them</li>
 <li>open "S_Sprechstile_all_dataframes.ipynb"</li>  
 <li>change the path</li>
 <li>run all</li>  
